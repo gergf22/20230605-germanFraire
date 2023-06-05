@@ -1,0 +1,5 @@
+Memorias principales ejemplos:
+
+    1- Memoria RAM
+    2- Memoria cache
+    3- Registros del CPU

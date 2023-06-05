@@ -1,0 +1,28 @@
+  313  cd dh
+  314  mkdir 20230605-germanFraire
+  315  cd 20230605-germanFraire/
+  316  touch comandos.txt main.js index.html
+  317  ls
+  318  git init
+  319  git remote add origin https://github.com/gergf22/20230605-germanFraire.git
+  320  git remote -v
+  321  git add .
+  322  git status
+  323  git commit -m "commit 01 de germanFraire"
+  324  git push origin main
+  325  git brach feature
+  326  git branch feature
+  327  git checkout feature 
+  328  mkdir Hardware Software SeguridadInformatica 
+  329  ls
+  330  touch Hardware/resumen.txt Software/resumen.txt SeguridadInformatica/resumen.txt
+  331  ls -R
+  332  git add .
+  333  git status
+  334  git commit -m "commit 02 de germanFraire"
+  335  git push origin feature 
+  336  git checkout main
+  337  mv main.js resumeHarware.txt
+  338  mv resumeHarware.txt resumenHardware.txt
+  339  mv index.html resumenSoftware.txt
+  340  history > comandos.txt 

@@ -1,0 +1,5 @@
+Software ejemplos 
+
+1- Sistema operativo (windous, IOS)
+2- Visual Estudio code
+3- VirtualBox
